@@ -35,3 +35,19 @@ order by count desc;
 
 --table check
 select * from retiring_titles
+
+--Deliverable 2
+ --created a Mentorship Eligibility table
+select distinct on(e.emp_no) e.emp_no, e.first_name, e.last_name, e.birth_date, de.from_date, de.to_date, 
+ti.title
+into mentorship_eligibilty
+from employees as e
+inner join dept_emp as de
+on e.emp_no = de.emp_no
+inner join titles as ti
+on e.emp_no = ti.emp_no
+where de.to_date ='9999-01-01' and (e.birth_date between '1965-01-01' and '1965-12-31')
+order by e.emp_no, ti.from_date desc;
+ 
+--table check
+select * from mentorship_eligibilty

@@ -11,7 +11,7 @@ Bobby is an up and coming HR analyst whose job is to perform employee research. 
 
 ## Results: Four Major points from the Two Analysis Deliverables
 
-The first deliverable looked at retiring employees by title (table below). The birth date was used to determine retiring employee. Birth dates used were between Jan. 1 1952 thru Dec 31st 1955. A total of 72,458 employees fell into this catagory. (total employees in image 2 below). THat number of employees is approx 24.2% of Pewlett Hackard's current work force, or 72,458 of 300,024 employees. 
+The first deliverable looked at retiring employees by title (table below). The birth date was used to determine retiring employee. Birth dates used were between Jan. 1 1952 thru Dec 31st 1955. A total of 90,398 employees fell into this catagory. (total employees in image 2 below). 
 
 <img width="320" alt="ut" src="https://user-images.githubusercontent.com/102890151/169677592-a00b6138-3260-4945-845a-c6bdff7f2d42.png">
 
@@ -36,3 +36,12 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
+The analysis revealed the following:
+
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+90398 positions will need to be filled up. More specifically,29414 Senior Engineers, 28254 Senior Staff, 14222 Engineer, 12243 Staff, 4502 Technique Leader, 1761 Assistant Engineer, and 2 Managers are retiring.
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Out of the current employees, around one-third are retiring, and to mentor the next generation of employees, only 1549 employees are available. Therefore, it can be concluded that the Pewlett Hackard does not have enough experienced employees for mentoring the next generation, considering the size of the company.
+

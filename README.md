@@ -4,28 +4,28 @@
 
 ## Overview of the analysis: Purpose of Analysis
 
-Pewlett Hackard is a large company boosting thousand employees and i's bee around for a long time. As Baby Bomers begin to retire at a rapid rate, Pewlett Hackard is looking towards the future in two way. First, its offerring retirement package for those who meet certain criteria. Second its starting to think about which position will need to be filed in the near future. The number of upcoming retirements will leave thousands of job openigns. What would happen to a company if they didn't look ahead and prepare for this many vacancies?
+Pewlett Hackard is a large company boosting thousand employees and it's been around for a long time. As Baby Boomers begin to retire at a rapid rate, Pewlett Hackard is looking towards the future in two ways; First, its offering retirement packages for those who meet certain criteria and secondly it's starting to think about which positions will need to be filled in the near future. 
 
-Bobby is an up and coming HR analyst whose job is to perform employee research. Specifically he needs to find answrs to the following questions. Who will be retiring in the next few years? And how many positions does Hewlett Packard need to fill? This analysis will help future proof Pewlett Hackard by generating a list of all employees eligible for the retirement package. The employee data Bobby needs is only available in six CSV files because Pewlett Hackard has been mainly using Excel and VBA to work with their data. But now they have finally updated their methods and decided to use SQL. My task is help Bobby build an employee database with SQL by applying my data modeling, engineering and analysis skills.
+Bobby is an up and coming HR Analyst whose job is to perform employee research. Specifically he needs to find answers to the following questions; Who will be retiring in the next few years and how many positions does Hewlett Packard need to fill? This analysis will help future proof Pewlett Hackard by generating a list of all employees eligible for their retirement package. The employee data Bobby needs is only available in six CSV files because Pewlett Hackard has been mainly using Excel and VBA to work with their data. But now they have finally updated their methods and decided to use SQL. My task is help Bobby build an employee database with SQL by applying data modeling, engineering and analysis skills.
 
 
 ## Results: Four Major points from the Two Analysis Deliverables
 
 After finishing up the analysis above with numerous reports generated in SQL, Bobby's manager has given both of us two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, I wrote a report that summarizes this analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age. Those results are as follows:
 
-The first deliverable looked at retiring employees by title (table below). This report was run as first as retirement titles, using the birth dates between Jan. 1st 1952 thru Dec 31st 1955 to determine retiring employees. That report was then cleanedby removing the duplicates. Then a final report 'retiring employees' was retrieved using the number of employees by their most recent job title who are about to retire. A total of 72,458 employees fell into this catagory. (total employees in image 2 below). 
+The first deliverable looked at retiring employees by title (table below). This report was run as first as retirement titles, using the birth dates between Jan. 1st 1952 thru Dec 31st 1955 to determine retiring employees. That report was then cleaned by removing the duplicates. Then a final report 'retiring employees' was retrieved using the number of employees by their most recent job title who are about to retire. A total of 90,398 employees fell into this catagory. (total employees in image 2 below). 
 
 retiring employees by title table
 
-<img width="320" alt="ut" src="https://user-images.githubusercontent.com/102890151/169677592-a00b6138-3260-4945-845a-c6bdff7f2d42.png">
+
 
 below, image 2. total employees retiring
 
-<img width="250" alt="ut_total" src="https://user-images.githubusercontent.com/102890151/169677500-b4a20e1e-9350-46c3-94f7-c838eca39e2f.png">
+<img width="125" alt="ri_total" src="https://user-images.githubusercontent.com/102890151/169707296-f83d3fed-7e13-493f-9537-555354112238.png">
 
 Taking the data from the retiring titles table, I broke it down further by grouping the table by titles, then sorting the count column in descending order. Image 3 (below) shows those reults. Several departments have large number of approaching retirements including the sr engineer and senoir staffing titles. Other levels titles, like managers and asst. engineers are currently less effected.
 
-<img width="162" alt="retirement_titles_count" src="https://user-images.githubusercontent.com/102890151/169677144-9d21da48-ef67-4fcc-9de6-9fa25909752c.png">
+<img width="165" alt="ri_counts" src="https://user-images.githubusercontent.com/102890151/169707096-9d4e0190-3f01-4ad5-9a7f-e48dbe0d332e.png">
 
 The second deliverable in this section that was given to us by Bobby's manager was to write a query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program. That table can be seen below.
 

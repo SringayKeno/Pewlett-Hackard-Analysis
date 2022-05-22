@@ -12,9 +12,8 @@ Bobby is an up and coming HR analyst whose job is to perform employee research. 
 ## Results: Four Major points from the Two Analysis Deliverables
 
 
-<img width="481" alt="retirement_titles" src="https://user-images.githubusercontent.com/102890151/169676139-38060ad2-fe7f-4de7-b7d4-a5d51d3e18f8.png">
+<img width="162" alt="retirement_titles_count" src="https://user-images.githubusercontent.com/102890151/169677144-9d21da48-ef67-4fcc-9de6-9fa25909752c.png">
 
-<img width="161" alt="rt count" src="https://user-images.githubusercontent.com/102890151/169676643-7c8f77d2-9fe9-4f97-b83f-3895b711c261.png">
 
 
 <img width="587" alt="Screenshot (56)" src="https://user-images.githubusercontent.com/102890151/169675932-740bacc7-1e71-4ba4-9369-7a4ecff83b23.png">

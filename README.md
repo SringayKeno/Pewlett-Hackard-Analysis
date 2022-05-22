@@ -1,7 +1,5 @@
 # Pewlett-Hackard-Analysis
 
-
-
 ## Overview of the analysis: Purpose of Analysis
 
 Pewlett Hackard is a large company boosting thousand employees and it's been around for a long time. As Baby Boomers begin to retire at a rapid rate, Pewlett Hackard is looking towards the future in two ways; First, its offering retirement packages for those who meet certain criteria and secondly it's starting to think about which positions will need to be filled in the near future. 

@@ -11,12 +11,12 @@ Bobby is an up and coming HR analyst whose job is to perform employee research. 
 
 ## Results: Four Major points from the Two Analysis Deliverables
 
-The first deliverable looked at retiring employees by title (table below). The birth date was used to determine retiring employee. Birth dates used were between Jan 1 1952 thru Dec 31st 1955.
+The first deliverable looked at retiring employees by title (table below). The birth date was used to determine retiring employee. Birth dates used were between Jan 1 1952 thru Dec 31st 1955. A total of 72, 458 employees fell into this catagory. (total employees in image 2 below)
 
 <img width="320" alt="ut" src="https://user-images.githubusercontent.com/102890151/169677592-a00b6138-3260-4945-845a-c6bdff7f2d42.png">
 
-
-<img width="297" alt="ut_total" src="https://user-images.githubusercontent.com/102890151/169677500-b4a20e1e-9350-46c3-94f7-c838eca39e2f.png">
+(total employees in image 2 below)
+<img width="250" alt="ut_total" src="https://user-images.githubusercontent.com/102890151/169677500-b4a20e1e-9350-46c3-94f7-c838eca39e2f.png">
 
 
 <img width="162" alt="retirement_titles_count" src="https://user-images.githubusercontent.com/102890151/169677144-9d21da48-ef67-4fcc-9de6-9fa25909752c.png">

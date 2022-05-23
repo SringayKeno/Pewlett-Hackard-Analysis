@@ -46,9 +46,19 @@ With over 70,000+ employees leaving for retirement and currently a mere 1,549 em
 
 ### Two Additional Queries or Tables that may Provide More Insight into the Upcoming "Silver Tsunami."
 
+*An Additional Table*
+
 In the analysis I looked at just the near furture retirees with birth dates between '1952-01-01' and '1955-12-31'. Expanding the analysis out a few more years might give us a better trend. Are there just an unusually large amount of retires forthcoming, or is this amount the norm?
 
 The table below is with the retiring employees expanded out two more years and looked at the birth dates between '1952-01-01' and '1957-12-31'. The total of retiring employees went up to 109,064. 
 
 <img width="200" alt="by_title7" src="https://user-images.githubusercontent.com/102890151/169730304-cad83c49-21cb-48d2-b9c8-ee7a41b71c98.png">
 
+*An Additional Query*
+
+Taking the information from the retiring employees table above (image 2) there were 72,458 employees retiring. How many dollars will be available after these employees retire? The query below takes the salary of the retiring employees and totals it. The total dollars freed up will be $3,832,741,608.
+
+select sum(salary) 
+from unique_titles as ut
+inner join salaries as s
+on ut.emp_no = s.emp_no

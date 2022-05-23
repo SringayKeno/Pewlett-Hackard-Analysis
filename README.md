@@ -37,14 +37,14 @@ The second deliverable in this section that was given to us by Bobby's manager w
 ## Summary: 
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-A total of 72,458 positions will need to be filled to replace the outgoing retiring Pewlett Hackard worksforce. More specifically; 25916 Senior Engineers, 24926 Senior Staff, 9285 Engineer, 7636 Staff, 3603 Technique Leader, 1090 Assistant Engineer, and 2 Managers are retiring.
+A total of 72,458 positions will need to be filled to replace the outgoing retiring Pewlett Hackard worksforce. More specifically; 25,916 Senior Engineers, 24,926 Senior Staff, 9,285 Engineer, 7,636 Staff, 3,603 Technique Leader, 1,090 Assistant Engineer, and 2 Managers are retiring.
 
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-With over 70,000+ employees leaving for retirement and currently a mere 1,549 employees to mentor the next generation, it's clear Pewlett Hackard does not have enough experienced employees for mentorship. THe current mentorship program needs to be looked at and expanded.
+With over 70,000+ employees leaving for retirement and currently a mere 1,549 employees to mentor the next generation, it's clear Pewlett Hackard does not have enough experienced employees for mentorship. The current mentorship program needs to be looked at and expanded.
 
 
-### two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+### Two Additional Queries or Tables that may Provide More Insight into the Upcoming "Silver Tsunami."
 
 
 

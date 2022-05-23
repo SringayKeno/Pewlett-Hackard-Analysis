@@ -58,7 +58,5 @@ The table below is with the retiring employees expanded out two more years and l
 
 Taking the information from the retiring employees table above (image 2) there were 72,458 employees retiring. How many dollars will be available after these employees retire? The query below takes the salary of the retiring employees and totals it. The total dollars freed up will be $3,832,741,608.
 
-select sum(salary) 
-from unique_titles as ut
-inner join salaries as s
-on ut.emp_no = s.emp_no
+<img width="200" alt="dollars_freed" src="https://user-images.githubusercontent.com/102890151/169736416-98dcab63-e519-440c-9552-b2d50b5d1260.png">
+

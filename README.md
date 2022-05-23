@@ -13,7 +13,7 @@ After finishing up the analysis above with numerous reports generated in SQL, Bo
 
 The first deliverable looked at retiring employees by title (table below). This report was run as first as retirement titles, using the birth dates between Jan. 1st 1952 thru Dec 31st 1955 to determine retiring employees. That report was then cleaned by removing the duplicates. Then a final report 'retiring employees' was retrieved using the number of employees by their most recent job title who are about to retire. The table was completed by grouping the table by titles and sorting the count column in descending order. See table 1, employees retiring by title.
 
-below, image 1. Several departments have large number of approaching retirements including the sr engineer and senoir staffing titles. Other levels titles, like managers and asst. engineers are currently less effected.
+below, image 1. Several roles have large number of approaching retirements including the that of Sr Engineer and those in Sr Staffing titles. Other position titles, like managers and asst. engineers are currently less effected.
 
 <img width="165" alt="ri_counts" src="https://user-images.githubusercontent.com/102890151/169707096-9d4e0190-3f01-4ad5-9a7f-e48dbe0d332e.png">
 
